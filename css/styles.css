@@ -49,5 +49,6 @@ body {
 }
 
 .imagem-pessoal img {
+  width: 720px;
     border-radius: 5%;
 }
